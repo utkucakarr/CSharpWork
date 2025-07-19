@@ -19,6 +19,7 @@
 
         public static CustomerManager CreateAsSingleton()
         {
+
             if (_customerManager == null)
             {
                 _customerManager = new CustomerManager();
