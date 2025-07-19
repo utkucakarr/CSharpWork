@@ -1,0 +1,15 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.dll.config
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.dll
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.Entities.dll
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.Entities.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\NorthWind.Entities.dll.config
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\obj\Debug\NorthWin.A714B67D.Up2Date
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.dll
+C:\Users\cakar\Desktop\BTK Akademi c#\NLayerAppDemo\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.pdb

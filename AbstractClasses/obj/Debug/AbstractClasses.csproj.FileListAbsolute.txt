@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\AbstractClasses\obj\Debug\AbstractClasses.pdb

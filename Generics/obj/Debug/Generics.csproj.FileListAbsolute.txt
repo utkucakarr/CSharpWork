@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\bin\Debug\Generics.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\bin\Debug\Generics.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\bin\Debug\Generics.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\obj\Debug\Generics.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Generics\obj\Debug\Generics.pdb

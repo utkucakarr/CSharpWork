@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\bin\Debug\Arrays.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\bin\Debug\Arrays.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\obj\Debug\Arrays.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Arrays\obj\Debug\Arrays.pdb

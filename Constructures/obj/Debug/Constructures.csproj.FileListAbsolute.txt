@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\bin\Debug\Constructures.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\bin\Debug\Constructures.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\bin\Debug\Constructures.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\obj\Debug\Constructures.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\obj\Debug\Constructures.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\obj\Debug\Constructures.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Constructures\obj\Debug\Constructures.pdb

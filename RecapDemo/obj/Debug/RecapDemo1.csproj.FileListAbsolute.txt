@@ -1,0 +1,10 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo\obj\Debug\RecapDemo.pdb

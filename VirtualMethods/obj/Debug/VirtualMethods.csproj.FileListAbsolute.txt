@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\VirtualMethods\obj\Debug\VirtualMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\bin\Debug\Methods.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\bin\Debug\Methods.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\bin\Debug\Methods.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\obj\Debug\Methods.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Methods\obj\Debug\Methods.pdb

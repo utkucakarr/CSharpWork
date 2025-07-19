@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

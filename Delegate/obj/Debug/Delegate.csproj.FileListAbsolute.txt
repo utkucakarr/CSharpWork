@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\bin\Debug\Delegate.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\bin\Debug\Delegate.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\obj\Debug\Delegate.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Delegate\obj\Debug\Delegate.pdb

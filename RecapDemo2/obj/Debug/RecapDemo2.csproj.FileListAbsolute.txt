@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\RecapDemo2\obj\Debug\RecapDemo2.pdb

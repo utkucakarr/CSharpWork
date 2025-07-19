@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\bin\Debug\Strings.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\bin\Debug\Strings.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\bin\Debug\Strings.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\obj\Debug\Strings.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,7 @@
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\bin\Debug\Collections.exe.config
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\bin\Debug\Collections.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\bin\Debug\Collections.pdb
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\obj\Debug\Collections.exe
+C:\Users\cakar\Desktop\BTK Akademi c#\Collections\obj\Debug\Collections.pdb
