@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{30FA6370-AD7F-4B20-A378-D4F8D2267AD3}</ProjectGuid>
+    <ProjectGuid>{9E0223D8-646B-4799-B1C2-FF53A2879694}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractFactoryDesign</RootNamespace>
-    <AssemblyName>AbstractFactoryDesign</AssemblyName>
+    <RootNamespace>PrototypeDesign</RootNamespace>
+    <AssemblyName>PrototypeDesign</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,6 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
