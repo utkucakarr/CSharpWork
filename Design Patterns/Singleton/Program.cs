@@ -1,4 +1,6 @@
-﻿namespace Singleton
+﻿using System;
+
+namespace Singleton
 {
     class Program
     {
@@ -19,7 +21,7 @@
 
         public static CustomerManager CreateAsSingleton()
         {
-
+            Console.WriteLine();
             if (_customerManager == null)
             {
                 _customerManager = new CustomerManager();
