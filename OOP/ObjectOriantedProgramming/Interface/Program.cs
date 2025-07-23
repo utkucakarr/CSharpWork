@@ -12,15 +12,17 @@ namespace Interface
             HousesCreditManager housesCreditManager = new HousesCreditManager();
 
             ApplicationManager applicationManager = new ApplicationManager();
-            applicationManager.Apply(demandCreditManager);
-            applicationManager.Apply(vehicleCreditManager);
-            applicationManager.Apply(housesCreditManager);
+            applicationManager.Apply(demandCreditManager, new DatabaseLoggerService());
+            applicationManager.Apply(vehicleCreditManager, new DatabaseLoggerService());
+            applicationManager.Apply(housesCreditManager, new FileLoggerService());
             Console.WriteLine("*******************************************");
 
             // Liste olarak hesaplama yapmak için
             List<ICreditManager> creditManagers = new List<ICreditManager>() {demandCreditManager, vehicleCreditManager };
 
-            applicationManager.KrediOnBilgilendirmesiYap(creditManagers);
+            applicationManager.DoCreditCardInformation(creditManagers);
+            Console.WriteLine("*******************************************");
+
         }
     }
 }

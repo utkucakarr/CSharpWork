@@ -5,17 +5,20 @@ namespace Interface
     // Başvuru manager
     internal class ApplicationManager
     {
-        public void Apply(ICreditManager creditManager)
+        // Method injection
+        public void Apply(ICreditManager creditManager, ILoggerService loggerService)
         {
+
             //Başvuran bilgilerini değerlendirme.
 
             // Böyle birşey yaparsak bütün başvuruları konut kredisine bağımlı hale getiriyoruz.
             //HousesCreditManager housesCreditManager = new HousesCreditManager();
 
             creditManager.Calculate();
+            loggerService.Log();
         }
 
-        public void KrediOnBilgilendirmesiYap(List<ICreditManager> credits)
+        public void DoCreditCardInformation(List<ICreditManager> credits)
         {
             foreach (var credit in credits)
             {
